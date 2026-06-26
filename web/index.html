@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+content="width=device-width, initial-scale=1.0">
+
+<title>AI Prompt Studio Pro</title>
+
+<link rel="stylesheet" href="style.css">
+
+</head>
+
+<body>
+
+<header>
+
+<h1>AI Prompt Studio Pro</h1>
+
+</header>
+
+<div class="container">
+
+<div class="sidebar">
+
+<h3>AI Platform</h3>
+
+<select id="platform">
+
+<option>ChatGPT</option>
+
+<option>Gemini</option>
+
+<option>Google Flow</option>
+
+<option>Midjourney</option>
+
+<option>Flux</option>
+
+<option>Stable Diffusion XL</option>
+
+<option>Kling</option>
+
+<option>Runway</option>
+
+</select>
+
+<hr>
+
+<button>Image Builder</button>
+
+<button>Video Builder</button>
+
+<button>Templates</button>
+
+<button>History</button>
+
+<button>Favorites</button>
+
+<button>Settings</button>
+
+</div>
+
+<div class="main">
+
+<h2>Prompt Builder</h2>
+
+<div class="card">
+
+<label>Subject</label>
+
+<input
+id="subject"
+placeholder="Example: Couple">
+
+<label>Pose</label>
+
+<input
+id="pose"
+placeholder="Example: Sitting">
+
+<label>Background</label>
+
+<input
+id="background"
+placeholder="Example: Rooftop">
+
+<label>Lighting</label>
+
+<input
+id="lighting"
+placeholder="Golden Hour">
+
+<label>Style</label>
+
+<input
+id="style"
+placeholder="Cinematic">
+
+<label>Aspect Ratio</label>
+
+<input
+id="ratio"
+placeholder="4:5">
+
+<button id="generate">
+
+Generate Prompt
+
+</button>
+
+</div>
+
+<div class="card">
+
+<h3>Generated Prompt</h3>
+
+<textarea
+id="output"
+rows="12">
+
+</textarea>
+
+<button id="copy">
+
+Copy Prompt
+
+</button>
+
+</div>
+
+</div>
+
+</div>
+
+<script src="app.js"></script>
+
+</body>
+
+</html>
