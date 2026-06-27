@@ -1,0 +1,14 @@
+{
+  "styles": [
+    {
+      "id": "cinematic",
+      "name": "Cinematic",
+      "category": "Realistic"
+    },
+    {
+      "id": "hyperrealistic",
+      "name": "Hyper Realistic",
+      "category": "Realistic"
+    }
+  ]
+}
