@@ -1,34 +1,55 @@
 {
   "styles": [
-    {
-      "id": "cinematic",
-      "name": "Cinematic",
-      "category": "Realistic"
-    },
-    {
-      "id": "hyperrealistic",
-      "name": "Hyper Realistic",
-      "category": "Realistic"
-    }
+    "Cinematic",
+    "Hyper Realistic",
+    "Photorealistic",
+    "Ultra Realistic",
+    "Documentary",
+    "Editorial Fashion",
+    "Luxury Fashion",
+    "Studio Portrait",
+    "Street Photography",
+    "Lifestyle Photography",
+    "Fine Art",
+    "Minimalist",
+    "Vintage",
+    "Retro",
+    "Film Noir",
+    "Netflix Original",
+    "IMAX",
+    "Hollywood",
+    "Bollywood",
+    "National Geographic",
+    "Travel Magazine",
+    "Magazine Cover",
+    "Luxury Editorial",
+    "Dreamy",
+    "Moody",
+    "Dark Fantasy",
+    "Fantasy",
+    "Cyberpunk",
+    "Steampunk",
+    "Sci-Fi",
+    "Anime",
+    "Manga",
+    "Studio Ghibli",
+    "Pixar",
+    "Disney",
+    "Comic Book",
+    "Sketch",
+    "Pencil Drawing",
+    "Charcoal",
+    "Watercolor",
+    "Oil Painting",
+    "Pastel",
+    "Digital Painting",
+    "Concept Art",
+    "Fantasy Art",
+    "Matte Painting",
+    "Architectural Visualization",
+    "3D Render",
+    "Clay Render",
+    "Low Poly",
+    "Voxel Art"
   ]
-}
-{
-"id":"netflix",
-"name":"Netflix Original",
-"category":"Cinema"
-}
-{
-"id":"imax",
-"name":"IMAX",
-"category":"Cinema"
-}
-{
-"id":"editorial",
-"name":"Editorial Fashion",
-"category":"Fashion"
-}
-{
-"id":"watercolor",
-"name":"Watercolor Painting",
-"category":"Painting"
 }
