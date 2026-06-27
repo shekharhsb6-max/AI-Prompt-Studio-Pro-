@@ -12,3 +12,23 @@
     }
   ]
 }
+{
+"id":"netflix",
+"name":"Netflix Original",
+"category":"Cinema"
+}
+{
+"id":"imax",
+"name":"IMAX",
+"category":"Cinema"
+}
+{
+"id":"editorial",
+"name":"Editorial Fashion",
+"category":"Fashion"
+}
+{
+"id":"watercolor",
+"name":"Watercolor Painting",
+"category":"Painting"
+}
