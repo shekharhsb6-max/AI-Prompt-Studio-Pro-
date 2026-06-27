@@ -1,0 +1,76 @@
+{
+  "platforms":[
+    {
+      "id":"chatgpt",
+      "name":"ChatGPT Images",
+      "supportsNegative":false,
+      "supportsWeights":false,
+      "supportsCamera":true
+    },
+    {
+      "id":"gemini",
+      "name":"Gemini Imagen",
+      "supportsNegative":false,
+      "supportsWeights":false,
+      "supportsCamera":true
+    },
+    {
+      "id":"midjourney",
+      "name":"Midjourney",
+      "supportsNegative":true,
+      "supportsWeights":true,
+      "supportsCamera":true
+    },
+    {
+      "id":"flux",
+      "name":"FLUX",
+      "supportsNegative":true,
+      "supportsWeights":true,
+      "supportsCamera":true
+    },
+    {
+      "id":"sdxl",
+      "name":"Stable Diffusion XL",
+      "supportsNegative":true,
+      "supportsWeights":true,
+      "supportsCamera":true
+    },
+    {
+      "id":"leonardo",
+      "name":"Leonardo AI",
+      "supportsNegative":true,
+      "supportsWeights":true,
+      "supportsCamera":true
+    },
+    {
+      "id":"googleflow",
+      "name":"Google Flow",
+      "video":true
+    },
+    {
+      "id":"veo",
+      "name":"Google Veo",
+      "video":true
+    },
+    {
+      "id":"runway",
+      "name":"Runway",
+      "video":true
+    },
+    {
+      "id":"kling",
+      "name":"Kling",
+      "video":true
+    },
+    {
+      "id":"pika",
+      "name":"Pika",
+      "video":true
+    },
+    {
+      "id":"luma",
+      "name":"Luma",
+      "video":true
+    }
+  ]
+}
