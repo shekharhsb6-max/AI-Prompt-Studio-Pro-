@@ -31,3 +31,61 @@ const LIBRARIES = {
   templates: "templates"
 
 };
+
+function getLibraryNames() {
+
+  return Object.keys(LIBRARIES);
+
+}
+
+function pingLibrary() {
+
+  return "Library Service Ready";
+
+}
+
+function getLibrary(name) {
+
+  return [];
+
+}
+
+function getStyles() {
+  return getLibrary("styles");
+}
+
+function getLighting() {
+  return getLibrary("lighting");
+}
+
+function getCamera() {
+  return getLibrary("camera");
+}
+
+function getPoses() {
+  return getLibrary("poses");
+}
+
+function getBackgrounds() {
+  return getLibrary("backgrounds");
+}
+
+function getClothing() {
+  return getLibrary("clothing");
+}
+
+function getExpressions() {
+  return getLibrary("expressions");
+}
+
+function getEffects() {
+  return getLibrary("effects");
+}
+
+function getAspectRatios() {
+  return getLibrary("aspectratio");
+}
+
+function getTemplates() {
+  return getLibrary("templates");
+}
