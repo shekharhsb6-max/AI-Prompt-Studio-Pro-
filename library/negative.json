@@ -1,0 +1,24 @@
+{
+  "negative": [
+    "Blurry",
+    "Low Resolution",
+    "Bad Anatomy",
+    "Bad Hands",
+    "Extra Fingers",
+    "Missing Fingers",
+    "Extra Arms",
+    "Extra Legs",
+    "Deformed Face",
+    "Duplicate Person",
+    "Cropped Head",
+    "Out of Frame",
+    "Watermark",
+    "Logo",
+    "Text",
+    "Noise",
+    "Artifacts",
+    "Oversaturated",
+    "Underexposed",
+    "Overexposed"
+  ]
+}
